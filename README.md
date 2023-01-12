@@ -7,8 +7,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 - Passionate and dedicated software developer with a stellar background in Computing Sciences at Simon Fraser University (Burnaby, B.C.🇨🇦)
 - Charismatic and open-minded problem solver who always looks for ways to improve, and is a determined, lifelong learner
 - Experienced in implementing various data structures and algorithms in multiple programming languages
@@ -25,9 +23,11 @@
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width = 80px></picture>
+<picture><img src = "https://plugins.jetbrains.com/files/13954/237264/icon/pluginIcon.png" width = 80px></picture>
+<picture><img src = "https://en.wikipedia.org/wiki/Lisp_%28programming_language%29#/media/File:Lisp_logo.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" width = 80px></picture>
+Swift | Java | Objective-C | C++ | C | SQL | Python | Prolog | Lisp | HTML5 | Unix 
 
-    
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Applications I Love To Use</b>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width = 80px></picture>

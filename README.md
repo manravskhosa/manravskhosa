@@ -22,16 +22,16 @@
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" width = 80px></picture>
+<picture><img src = "https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width = 80px></picture>
-<picture><img src = "https://plugins.jetbrains.com/files/13954/237264/icon/pluginIcon.png" width = 80px></picture>
-<picture><img src = "https://en.wikipedia.org/wiki/Lisp_%28programming_language%29#/media/File:Lisp_logo.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" width = 80px></picture>
+<br>
 Swift | Java | Objective-C | C++ | C | SQL | Python | Prolog | Lisp | HTML5 | Unix 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Applications I Love To Use</b>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width = 80px></picture>
-<picture><img src = "https://icons8.com/icons/set/visual-studio" width = 80px></picture>
+<picture><img src = "https://img.icons8.com/color/512/visual-studio-code-2019.png" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width = 80px></picture>
 <picture><img src = "https://img.icons8.com/plasticine/512/github-squared.png" width = 80px></picture>

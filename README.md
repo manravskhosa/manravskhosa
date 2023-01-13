@@ -50,7 +50,10 @@ XCode | MATLAB | Visual Studio Code | Android Studio | Git | Unity | Anaconda & 
 Linux Ubuntu | Mac OS | iOS | Android | Windows
 
 ## 📌 Pinned Repositories
-- In-Progress
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=priorityQueue)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=sphere)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## 🥹 What I'm Excited About - My Passion Project
 <h3>iOS Application for Senior Punjabi Community</h3> 
 <h5>Estimated Completion: March '23</h5> 

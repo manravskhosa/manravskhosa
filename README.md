@@ -60,7 +60,7 @@ Linux Ubuntu | Mac OS | iOS | Android | Windows
 
 
 - Using my childhood passion for iOS development to create an app for the senior, less technologically-inclined Punjabi community
-- Via: Xcode and Swift, both self-taught to increase my self-teaching capabilities & confidence
+- Via: Xcode and Swift, both (semi) self-taught to increase my self-teaching capabilities & confidence
 - Implementing the Google Maps API for nearby Punjabi restaurants and gurdwaras
 - Includes calendar functionality, to-do list and integration of Punjabi holidays, with an emergency contact function to easily access family member information in case of emergency.
 

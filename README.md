@@ -50,6 +50,7 @@ XCode | MATLAB | Visual Studio Code | Android Studio | Git | Unity | Anaconda & 
 Linux Ubuntu | Mac OS | iOS | Android | Windows
 
 ## 📌 Pinned Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=initnem)](https://github.com/manravskhosa/initnem.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=Priority-Controlled-Task-Manager)](https://github.com/manravskhosa/Priority-Controlled-Task-Manager.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=sphere)](https://github.com/manravskhosa/sphere.git)
 

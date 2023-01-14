@@ -28,6 +28,8 @@
 <br>
 Swift | Java | Objective-C | C++ | C | SQL | Python | Prolog | Lisp | HTML5 | Unix 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manravskhosa)](https://github.com/anuraghazra/github-readme-stats)
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Applications I Love To Use</b>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width = 80px></picture>

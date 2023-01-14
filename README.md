@@ -50,8 +50,8 @@ XCode | MATLAB | Visual Studio Code | Android Studio | Git | Unity | Anaconda & 
 Linux Ubuntu | Mac OS | iOS | Android | Windows
 
 ## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=priorityQueue)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/manravskhosa/Priority-Controlled-Task-Manager.git))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=sphere)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=Priority-Controlled-Task-Manager)](https://github.com/manravskhosa/Priority-Controlled-Task-Manager.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=sphere)](https://github.com/manravskhosa/sphere.git)
 
 
 ## 🥹 What I'm Excited About - My Passion Project

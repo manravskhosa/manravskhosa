@@ -58,15 +58,9 @@ Linux Ubuntu | Mac OS | iOS | Android | Windows
 
 
 ## 🥹 What I'm Excited About - My Passion Project
-<h3>iOS Application for Senior Punjabi Community</h3> 
+<h3>iNitnem - All In One iOS Lifestyle Application</h3> 
 <h5>Estimated Completion: March '23</h5> 
-
-
-- Using my childhood passion for iOS development to create an app for the senior, less technologically-inclined Punjabi community
-- Via: Xcode and Swift, both (semi) self-taught to increase my self-teaching capabilities & confidence
-- Implementing the Google Maps API for nearby Punjabi restaurants and gurdwaras
-- Includes calendar functionality, to-do list and integration of Punjabi holidays, with an emergency contact function to easily access family member information in case of emergency.
-
+See: initnem>README.md
 
 ## Let's Connect 🤝
 manrav_khosa@sfu.ca | <a href="https://www.linkedin.com/in/manrav-singh/">LinkedIn</a> | 

@@ -30,7 +30,7 @@ Swift | Java | Objective-C | C++ | C | SQL | Python | Prolog | Lisp | HTML5 | Un
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manravskhosa)](https://github.com/anuraghazra/github-readme-stats)
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Applications I Love To Use</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Dev Tools I Love To Use</b>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" width = 80px></picture>
 <picture><img src = "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width = 80px></picture>
 <picture><img src = "https://img.icons8.com/color/512/visual-studio-code-2019.png" width = 80px></picture>
@@ -42,7 +42,7 @@ Swift | Java | Objective-C | C++ | C | SQL | Python | Prolog | Lisp | HTML5 | Un
 <br>
 XCode | MATLAB | Visual Studio Code | Android Studio | Git | Unity | Anaconda & More!
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Operating System's I Enjoy Developing For </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Operating System's I Enjoy Developing For</b>
 <picture><img src = "https://img.icons8.com/color/512/linux.png" width = 80px></picture>
 <picture><img src = "https://img.icons8.com/color/512/happy-mac.png" width = 80px></picture>
 <picture><img src = "https://img.icons8.com/nolan/512/ios-logo.png" width = 80px></picture>

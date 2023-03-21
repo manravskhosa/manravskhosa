@@ -56,14 +56,6 @@ Linux Ubuntu | Mac OS | iOS | Android | Windows
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=Priority-Controlled-Task-Manager)](https://github.com/manravskhosa/Priority-Controlled-Task-Manager.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manravskhosa&repo=sphere)](https://github.com/manravskhosa/sphere.git)
 
-
-## 🥹 What I'm Excited About - My Passion Project
-<h3>iNitnem - All In One iOS Lifestyle Application</h3> 
-<h5>Estimated Completion: March '23</h5> 
-I'm building an iOS app with Swift using XCode to blend a meditation companion, Sikh calendar, and history database into one cool package
-I saw a gap in the market for this app, and fueled by business intelligence and creativity, I'm crafting an exceptional solution with killer UI/UX
-Through the agile development process, I'm using my self-taught app dev skills to boost my ability to learn and adapt.
-
 ## Let's Connect 🤝
 manrav_khosa@sfu.ca | <a href="https://www.linkedin.com/in/manrav-singh/">LinkedIn</a> | 
 

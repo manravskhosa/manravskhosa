@@ -7,7 +7,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-- Passionate and dedicated software developer with a stellar background in Computing Sciences at Simon Fraser University (Burnaby, B.C.🇨🇦)
+- Passionate and dedicated software developer with a stellar background in Computer Engineering at Simon Fraser University (Burnaby, B.C.🇨🇦)
 - Charismatic and open-minded problem solver who always looks for ways to improve, and is a determined, lifelong learner
 - Experienced in implementing various data structures and algorithms in multiple programming languages
 - Most importantly, I present a deep passion for technical software development and have a track record of successfully solving complex technical problems
